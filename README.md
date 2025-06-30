@@ -1,10 +1,10 @@
+# david soutarson
+
 ## David Soutarson intégrateur développeur web et mobile👋
 
 **davidSoutarson/davidSoutarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="davidsoutarson" /></a> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [ajouter un lien ver mon portfolio]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Mes Trophée GitHub
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="davidsoutarson" /></a> </p>
