@@ -55,9 +55,10 @@ J’aime coder régulièrement pour améliorer mes compétences et découvrir de
 Ces stats montrent mon engagement et les langages que je pratique le plus.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="davidsoutarson" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsoutarson&show_icons=true&locale=en" alt="davidsoutarson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson&" alt="davidsoutarson" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidsoutarson&show_icons=true&locale=en" alt="davidsoutarson" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson&" alt="davidsoutarson" /></p>
 
 ### 🔗 Liens utiles
 
