@@ -12,8 +12,8 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 
 ### 🚀 À propos de moi
 
-- 🔭 Actuellement en train de travailler sur **[ton projet actuel ou stack]**
-- 🌱 J'apprends en ce moment (à adapter selon tes compétences)
+- 🔭 Actuellement en train de travailler sur **[Mon portfolio]**
+<!-- - 🌱 J'apprends en ce moment (à adapter selon tes compétences) -->
 - 📫 Me contacter : **david.soutarson.pro@gmail.com**
 - 🌐 Mon portfolio : [ajouter un lien ver mon portfolio]
 
@@ -21,9 +21,10 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 
 - 👯 Je cherche à collaborer sur des projets **open-source ou freelance**
 - 🤔 Je recherche de l'aide pour ...
-- 💬 N’hésite pas à me poser des questions sur \*\*le développement front-end, l’intégration,
+  <!-- - 💬 N’hésite pas à me poser des questions sur \**le développement front-end, l’intégration, -->
+  <!-- - ⚡ Fun fact: ... -->
 
-- ⚡ Fun fact: ...
+---
 
 ### Mes Trophée GitHub
 
