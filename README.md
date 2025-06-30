@@ -62,16 +62,16 @@ Ces stats montrent mon engagement et les langages que je pratique le plus.
   </a>
 </p>
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
+<div style="display: flex; gap: 4%; align-items: flex-start;">
 
-  <div style="text-align: center;">
+  <div style="flex-basis: 48%; text-align: center;">
     <h4>Langages les plus utilisés</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés par davidsoutarson" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés par davidsoutarson" style="max-width: 100%;" />
   </div>
 
-  <div style="text-align: center;">
+  <div style="flex-basis: 48%; text-align: center;">
     <h4>Statistiques de contributions</h4>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson" alt="Streak GitHub de davidsoutarson" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson" alt="Streak GitHub de davidsoutarson" style="max-width: 100%;" />
   </div>
 
 </div>
