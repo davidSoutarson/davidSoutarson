@@ -2,8 +2,6 @@
 
 ## Intégrateur développeur web et mobile👋
 
-**davidSoutarson/davidSoutarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Bienvenue sur mon profil GitHub ! Passionné par le développement web et mobile,
 j’aime transformer des idées en produits numériques fonctionnels et modernes.
 Toujours curieux, je suis en constante recherche d’apprentissage et de nouveaux défis.
@@ -51,14 +49,12 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-### Mes Trophée GitHub
+### 🚀 Mon évolution sur GitHub
+
+J’aime coder régulièrement pour améliorer mes compétences et découvrir de nouvelles technologies.
+Ces stats montrent mon engagement et les langages que je pratique le plus.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="davidsoutarson" /></a> </p>
-
-### mes stat GitHub
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="davidsoutarson" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsoutarson&show_icons=true&locale=en" alt="davidsoutarson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson&" alt="davidsoutarson" /></p>
