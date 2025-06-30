@@ -62,18 +62,12 @@ Ces stats montrent mon engagement et les langages que je pratique le plus.
   </a>
 </p>
 
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-
-  <div style="flex: 1; text-align: center;">
+<div>
     <h4>Langages les plus utilisés</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés par davidsoutarson" />
-  </div>
-
-  <div style="flex: 1; text-align: center;">
+  
     <h4>Statistiques de contributions</h4>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson" alt="Streak GitHub de davidsoutarson" />
-  </div>
-
 </div>
 
 ### 🔗 Liens utiles
