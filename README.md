@@ -1,6 +1,6 @@
 # david soutarson
 
-## Intégrateur développeur web et mobile👋
+## Intégrateur développeur web et mobile
 
 Bienvenue sur mon profil GitHub ! Passionné par le développement web et mobile,
 j’aime transformer des idées en produits numériques fonctionnels et modernes.
@@ -48,11 +48,6 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
-### Mon parcours en code, en chiffres
-
-J’aime coder régulièrement pour améliorer mes compétences et découvrir de nouvelles technologies.
-Ces stats montrent mon engagement et les langages que je pratique le plus.
 
 ### 🔗 Liens utiles
 
