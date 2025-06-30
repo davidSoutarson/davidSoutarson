@@ -62,7 +62,7 @@ Ces stats montrent mon engagement et les langages que je pratique le plus.
   </a>
 </p>
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<div style="display: flex; gap: 10px; align-items: flex-start;">
 
   <div style="flex: 1; text-align: center;">
     <h4>Langages les plus utilisés</h4>
