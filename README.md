@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="davidsoutarson" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsoutarson&show_icons=true&locale=en" alt="davidsoutarson" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="davidsoutarson" /></p>
