@@ -51,17 +51,27 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 
 ### Mon parcours en code, en chiffres
 
-J’aime coder régulièrement pour améliorer mes compétences et découvrir de nouvelles technologies.  
+J’aime coder régulièrement pour améliorer mes compétences et découvrir de nouvelles technologies.
 Ces stats montrent mon engagement et les langages que je pratique le plus.
 
-#### Trophées GitHub, Langages et Streak
+#### Trophées GitHub
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="Trophées GitHub de davidsoutarson" width="320" />
+    <img src="https://github-profile-trophy.vercel.app/?username=davidsoutarson" alt="Trophées GitHub de davidsoutarson" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés" width="220" style="margin-left: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson" alt="Streak GitHub" width="220" style="margin-left: 10px;" />
+</p>
+
+#### Langages les plus utilisés
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsoutarson&show_icons=true&locale=en&layout=compact" alt="Langages les plus utilisés par davidsoutarson" />
+</p>
+
+#### Statistiques de contributions
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsoutarson" alt="Streak GitHub de davidsoutarson" />
 </p>
 
 ### 🔗 Liens utiles
