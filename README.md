@@ -17,10 +17,10 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 
 #### Collaborons ensemble
 
-- 👯 Je cherche à collaborer sur des projets **open-source ou freelance**
-- 🤔 Je recherche de l'aide pour ...
-  <!-- - 💬 N’hésite pas à me poser des questions sur \**le développement front-end, l’intégration, -->
-  <!-- - ⚡ Fun fact: ... -->
+👋 Je suis actuellement à la recherche de nouvelles opportunités professionnelles.
+💼 Ouvert aux postes en CDI, CDD, freelance ou collaboration sur des projets.
+🚀 Passionné par le développement et motivé pour contribuer à des projets innovants.
+📩 N’hésite pas à me contacter pour discuter d’une éventuelle collaboration ou mission.
 
 ---
 
