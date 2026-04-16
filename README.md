@@ -52,7 +52,7 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 ### 🔗 Liens utiles
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil)
-- 🧠 [Portfolio](https://www.exemple.com)
+- 🧠 [Portfolio](https://devweb-david-s.github.io/)
 - 📷 [Instagram ou autre si pertinent]
 
 ---
