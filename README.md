@@ -13,7 +13,7 @@ Toujours curieux, je suis en constante recherche d’apprentissage et de nouveau
 - 🔭 Actuellement en train de travailler sur **[Mon portfolio]**
 <!-- - 🌱 J'apprends en ce moment (à adapter selon tes compétences) -->
 - 📫 Me contacter : **david.soutarson.pro@gmail.com**
-- 🌐 Mon portfolio : [ajouter un lien ver mon portfolio]
+- 🌐 Mon portfolio : https://devweb-david-s.github.io/
 
 #### Collaborons ensemble
 
